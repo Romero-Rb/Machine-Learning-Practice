@@ -8,6 +8,6 @@ While i'm building my portfolio i'll add projects to to this repository and high
 
 Project Title  | Description   |  Topic
 -------------- | ------------- | ------------------
-[Linear Regression and Gradient Descent](https://github.com/Romero-Rb/Romeros-SQL-Projects/blob/main/Queries%20for%20imdb%20movies%20ratings.sql)| Implemented a linear regression alrogithm and utilized a gradient descent formula to minimize the cost function of the linear equation 
+[Linear Regression and Gradient Descent](https://github.com/Romero-Rb/Machine-Learning-Practice/blob/main/Understanding%20Linear%20Regression%20and%20Gradient%20Descent.ipynb)| Implemented a linear regression alrogithm and utilized a gradient descent formula to minimize the cost function of the linear equation 
 
 
